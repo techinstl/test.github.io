@@ -4,19 +4,19 @@ permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
 github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+author: "Yue Fang"
+email: tr.yue.fang#gmail.com
+name: "Yue Fang's personal Blog"
+url: http://www.bigdataexample.com
+domain: www.bigdataexample.com
 all_categories: [
-["android", "Android开发","/posts/android.html"], 
-["program", "软件编程","/posts/program.html"],
-["web", "Web建站","/posts/web.html"], 
-["linux", "Linux相关","/posts/linux.html"],
-["read", "读书笔记","/posts/read.html"], 
-["other", "杂记","/posts/other.html"],
-["about", "关于","/about.html"]
+["spark", "Spark","/posts/spark.html"], 
+["aws", "Amazon AWS","/posts/aws.html"],
+["rasperberrypi", "RasperBerry Pi","/posts/rasperberrypi.html"], 
+["kafka", "Apache Kafka,"/posts/kafka.html"],
+["springboot", "Spring Boot","/posts/springboot.html"], 
+["springcloud", "Spring Cloud","/posts/springcloud.html"],
+["about", "About Me","/about.html"]
 ]
 
 paginate: 8
