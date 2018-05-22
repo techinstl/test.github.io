@@ -13,7 +13,7 @@ all_categories: [
 ["spark", "Spark","/posts/spark.html"], 
 ["aws", "Amazon AWS","/posts/aws.html"],
 ["rasperberrypi", "RasperBerry Pi","/posts/rasperberrypi.html"], 
-["kafka", "Apache Kafka,"/posts/kafka.html"],
+["kafka", "Apache Kafka","/posts/kafka.html"],
 ["springboot", "Spring Boot","/posts/springboot.html"], 
 ["springcloud", "Spring Cloud","/posts/springcloud.html"],
 ["about", "About Me","/about.html"]
