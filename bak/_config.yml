@@ -1,0 +1,31 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /posts/:title.html
+excerpt_separator: "<!-- more -->"
+
+github: yidaiyima
+author: "Yue Fang"
+email: tr.yue.fang#gmail.com
+name: "Yue Fang's personal Blog"
+url: http://www.bigdataexample.com
+domain: www.bigdataexample.com
+all_categories: [
+["spark", "Spark","/posts/spark.html"],
+["aws", "Amazon AWS","/posts/aws/index.html"],
+["rasperberrypi", "RasperBerry Pi","/posts/rasperberrypi/index.html"],
+["kafka", "Apache Kafka","/posts/kafka/index.html"],
+["springboot", "Spring Boot","/posts/springboot/index.html"],
+["springcloud", "Spring Cloud","/posts/springcloud/index.html"],
+["about", "About Me","/about.html"]
+]
+
+paginate: 8
+paginate_path: "posts/page:num"
+timezone: America/Los_Angeles
+
+collections:
+  docs:
+    output: true
+
+gems:
+ - jekyll-paginate
