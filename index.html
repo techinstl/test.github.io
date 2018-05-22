@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "big data example codes"
+title: "强学力行、顺势而为"
 ---
 
 <!-- Loop output paged posts -->
@@ -16,7 +16,7 @@ title: "big data example codes"
 </h2>
 <hr>
 {{ post.excerpt }}
-	<p><h3><a href="{{ post.url }}"Read all &raquo;</a></h3></p>
+	<p><h3><a href="{{ post.url }}">阅读全文 &raquo;</a></h3></p>
 <hr>
 {% endfor %}
 
@@ -25,19 +25,19 @@ title: "big data example codes"
   {% if paginator.previous_page %} {% if paginator.previous_page == 1 %}
   <li class="previous">
     <a href="/">
-      &larr; previous
+      &larr; 上一页
     </a>
   </li>
   {% else %}
   <li class="previous">
     <a href="/posts/page{{ paginator.previous_page }}/index.html">
-      &larr; previous
+      &larr; 上一页
     </a>
   </li>
   {% endif %} {% endif %} {% if paginator.next_page %}
   <li class="next">
     <a href="/posts/page{{ paginator.next_page }}/index.html">
-      next &rarr;
+      下一页 &rarr;
     </a>
   </li>
   {% endif %}

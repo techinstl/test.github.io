@@ -1,4 +1,4 @@
 ---
 layout: category
-category: aws
+category: android
 ---

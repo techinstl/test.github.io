@@ -1,20 +1,28 @@
 ---
 layout: page
-title: "About"
+title: "关于：About"
 ---
 Welcome to visit my blog!
 
 #### 1.Personal Info
-Name: Yue Fang  
+Name: Xuewen Pan(潘学文)  
 Gender: Male  
-City: Beijing, China  
-Career: Big Data Engineer  
+City: Wuhan, China  
+Career: Software developer(Android&Linux&Web)  
 
 #### 2.My Links
-Blog: <http://www.bigdataexample.com>  
-GitHub: <https://github.com/yidaiyima>  
-LinkedIn: <http://www.linkedin.com/in/yuefang>  
+Blog: <http://www.panxw.com>  
+GitHub: <https://github.com/panxw>  
+LinkedIn: <http://www.linkedin.com/in/panxw>  
 
 
 #### 3.Contract
-Email: tr.yue.fang#gmail.com  
+Email: winfirm#163.com  
+QQ: 85902258  
+
+### 4.Domain For Sale
+danbaili.com  
+fangxinyu.com  
+maicaiwa.com  
+babytoycar.com  
+youth168.com  
