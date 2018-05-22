@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "spark"
+category: "aws"
 title:  "what is spark"
 tags: [spark]
 ---
