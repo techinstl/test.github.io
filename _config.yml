@@ -10,12 +10,12 @@ name: "Yue Fang's personal Blog"
 url: http://www.bigdataexample.com
 domain: www.bigdataexample.com
 all_categories: [
-["spark", "Spark","/posts/spark.html"], 
-["aws", "Amazon AWS","/posts/aws.html"],
-["rasperberrypi", "RasperBerry Pi","/posts/rasperberrypi.html"],
-["kafka", "Apache Kafka","/posts/kafka.html"],
-["springboot", "Spring Boot","/posts/springboot.html"],
-["springcloud", "Spring Cloud","/posts/springcloud.html"],
+["spark", "Spark","/posts/spark/index.html"],
+["aws", "Amazon AWS","/posts/aws/index.html"],
+["rasperberrypi", "RasperBerry Pi","/posts/rasperberrypi/index.html"],
+["kafka", "Apache Kafka","/posts/kafka/index.html"],
+["springboot", "Spring Boot","/posts/springboot/index.html"],
+["springcloud", "Spring Cloud","/posts/springcloud/index.html"],
 ["about", "About Me","/about.html"]
 ]
 
