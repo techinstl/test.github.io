@@ -3,7 +3,7 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
+github: yidaiyima
 author: "Yue Fang"
 email: tr.yue.fang#gmail.com
 name: "Yue Fang's personal Blog"
@@ -12,9 +12,9 @@ domain: www.bigdataexample.com
 all_categories: [
 ["spark", "Spark","/posts/spark.html"], 
 ["aws", "Amazon AWS","/posts/aws.html"],
-["rasperberrypi", "RasperBerry Pi","/posts/rasperberrypi.html"], 
+["rasperberrypi", "RasperBerry Pi","/posts/rasperberrypi.html"],
 ["kafka", "Apache Kafka","/posts/kafka.html"],
-["springboot", "Spring Boot","/posts/springboot.html"], 
+["springboot", "Spring Boot","/posts/springboot.html"],
 ["springcloud", "Spring Cloud","/posts/springcloud.html"],
 ["about", "About Me","/about.html"]
 ]
