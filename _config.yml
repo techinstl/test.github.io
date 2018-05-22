@@ -12,8 +12,8 @@ domain: www.bigdataexample.com
 all_categories: [
 ["spark", "Spark","/posts/spark.html"],
 ["aws", "Amazon AWS","/posts/aws.html"],
+["kafka", "Amazon AWS","/posts/kafka.html"],
 ["rasperberrypi", "RasperBerry Pi","/posts/rasperberrypi.html"],
-["kafka", "Apache Kafka","/posts/kafka.html"],
 ["springboot", "Spring Boot","/posts/springboot.html"],
 ["about", "About Me","/about.html"]
 ]
