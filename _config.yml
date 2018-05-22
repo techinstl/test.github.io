@@ -15,10 +15,8 @@ all_categories: [
 ["rasperberrypi", "RasperBerry Pi","/posts/rasperberrypi.html"],
 ["kafka", "Apache Kafka","/posts/kafka.html"],
 ["springboot", "Spring Boot","/posts/springboot.html"],
-["springcloud", "Spring Cloud","/posts/springcloud.html"],
 ["about", "About Me","/about.html"]
 ]
-
 paginate: 8
 paginate_path: "posts/page:num"
 timezone: America/Los_Angeles
